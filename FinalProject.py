@@ -1,5 +1,5 @@
 #THE PROBLEM: This program helps to keep track of the employees in a specific campany/bank or Any organisation and makes it easy to reach the information of a specific employee. It has 4 options to apply. You can either add a new employee for the new comers to the company, or delete an employee for the ones who left there, or search for a specific worker by his/her ID to check if that person is still working there or list all the employees who are currently working in the company.
-
+#GROUP MEMBERS: Çeşminaz İrem Aksoy, Joseph Fersh Nkurunziza, Çağla Özdemir
 def menu():
     print("\n1. Add new employee\n2. Delete an employee account")
     print("3. Search for a specific employee\n4. List all the employees")
